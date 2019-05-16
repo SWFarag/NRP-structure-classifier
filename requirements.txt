@@ -1,0 +1,5 @@
+itertools
+pandas
+sklearn
+keras
+matplotlib
