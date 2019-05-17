@@ -20,7 +20,7 @@ Install the dependencies by entering:
 
 To run conventional machine learning models from the command-line, just do:
 
-    $ python conventional_models.py
+    $ python sb_models.py
 
 Example: Example: Running tool with model_type=0
 
